@@ -308,7 +308,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [envd](https://github.com/tensorchord/envd) | 🏕️ machine learning development environment for data science and AI/ML engineering teams |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
 | [MLEM](https://github.com/iterative/mlem) | 🐶 Version and deploy your ML models following GitOps principles |
-
+| [Einblick](https://einblick.ai) | A modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML) or comparing populations. |
 
 ## Machine Learning in General Purpose
 **[`^        back to top        ^`](#awesome-data-science)**
